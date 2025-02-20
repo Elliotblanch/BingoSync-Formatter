@@ -23,3 +23,4 @@ Defeat a boss after entering the arena fully unequipped
 Upgrade 3 weapons to +10 (No somber stones)
 Beat Seluvis up
 Unstick Alexander
+Defeat 3 Gaol bosses
