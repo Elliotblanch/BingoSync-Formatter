@@ -1,4 +1,4 @@
-Script requires Python to run
+Script requires Python to run: https://www.python.org/downloads/
 
 Outputs a text file in a JSON format, to be able to create custom bingo boards for bingosync from a large pool of options
 
