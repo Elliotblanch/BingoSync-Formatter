@@ -8,4 +8,4 @@ Repeat entries are filtered out.
 
 If you want to run the script for a separate text file, simply replace 'eldenRingo.txt' with the name of the file you wish to use.
 
-The results will be stored in output.json rady to be copied into BingoSync.
+The results will be stored in output.json ready to be copied into BingoSync.
